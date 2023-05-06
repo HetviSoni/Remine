@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/HetviSoni/Remine/static/css/main.91190a90.css",
+    "main.js": "/HetviSoni/Remine/static/js/main.4d81cb11.js",
+    "static/js/787.4b284000.chunk.js": "/HetviSoni/Remine/static/js/787.4b284000.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/HetviSoni/Remine/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fa-solid-900.ttf": "/HetviSoni/Remine/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/waste1.jpg": "/HetviSoni/Remine/static/media/waste1.aa8a8efd6d1710b95d36.jpg",
+    "static/media/fa-brands-400.ttf": "/HetviSoni/Remine/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fontawesome-webfont.eot": "/HetviSoni/Remine/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/HetviSoni/Remine/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fa-solid-900.woff2": "/HetviSoni/Remine/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/HetviSoni/Remine/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/HetviSoni/Remine/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/waste2.jpg": "/HetviSoni/Remine/static/media/waste2.ff7e134c7c50ff3046a5.jpg",
+    "static/media/Man2.jpg": "/HetviSoni/Remine/static/media/Man2.acd6529e5ebcfbed9ab9.jpg",
+    "static/media/logo.png": "/HetviSoni/Remine/static/media/logo.b6e01dae872a325578cc.png",
+    "static/media/recycle.png": "/HetviSoni/Remine/static/media/recycle.ca44e6fc87b98bbd85b5.png",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/HetviSoni/Remine/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/fa-regular-400.ttf": "/HetviSoni/Remine/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/stores.jpg": "/HetviSoni/Remine/static/media/stores.f8d9e79f776d961d0d7d.jpg",
+    "static/media/restaurant.jpg": "/HetviSoni/Remine/static/media/restaurant.45207e7d0affe038d79d.jpg",
+    "static/media/man.webp": "/HetviSoni/Remine/static/media/man.7d6adf70e73895f48d48.webp",
+    "static/media/truck.webp": "/HetviSoni/Remine/static/media/truck.8359b54b5cded24732d9.webp",
+    "static/media/fa-regular-400.woff2": "/HetviSoni/Remine/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/hospital.jpg": "/HetviSoni/Remine/static/media/hospital.4ee7b0d3e65de78f7273.jpg",
+    "static/media/fa-v4compatibility.ttf": "/HetviSoni/Remine/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/HetviSoni/Remine/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "static/media/slick.svg": "/HetviSoni/Remine/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/HetviSoni/Remine/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/HetviSoni/Remine/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/HetviSoni/Remine/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/HetviSoni/Remine/index.html",
+    "main.91190a90.css.map": "/HetviSoni/Remine/static/css/main.91190a90.css.map",
+    "main.4d81cb11.js.map": "/HetviSoni/Remine/static/js/main.4d81cb11.js.map",
+    "787.4b284000.chunk.js.map": "/HetviSoni/Remine/static/js/787.4b284000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91190a90.css",
+    "static/js/main.4d81cb11.js"
+  ]
+}
