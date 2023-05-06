@@ -8,7 +8,7 @@ import Recycle from '../../assets/recycle.png';
 const Card = (props) => {
     return (
         <div className="card">
-            <img src={props.image}></img>
+            <img  alt="alt" src={props.image}></img>
             <div className="card-info">
                 <h3>{props.title}</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, dolorum!</p>
@@ -23,7 +23,7 @@ const CountCard = (props) => {
         <div className="count-card">
             <div className='number'>
                 <span>{props.num}</span>
-                <img src={Recycle}></img>
+                <img alt="alt"  src={Recycle}></img>
             </div>
             <div className="count-info">
                 <h3>{props.title}</h3>
@@ -71,7 +71,7 @@ const Services = () => {
                     </div>
                 </div>
                 <div className="skills-right">
-                    <img className="skills-image" src={Truck}></img>
+                    <img className="skills-image" alt='truck' src={Truck}></img>
                 </div>
             </div>
             <div className='count-container'>

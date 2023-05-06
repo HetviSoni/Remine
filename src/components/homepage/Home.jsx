@@ -1,4 +1,3 @@
-import React, { useState, useEffect } from 'react';
 import Navbar from '../navbar/Navbar';
 import Services from '../services/Services';
 import About from '../about/About';

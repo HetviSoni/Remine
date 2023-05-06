@@ -25,20 +25,20 @@ const Landing = () => {
       
     return (
         <div className='landing'>
-            <div className='landing-left'><img src={Logo}></img> </div>
+            <div className='landing-left'><img alt="alt" src={Logo}></img> </div>
             <div className='landing-right'>
                 <Slider className='carousel' {...settings} >
                     
                     <div>
-                        <img src={Man} />
+                        <img alt="alt" src={Man} />
                         <div className="carousel-button">Request a Pickup</div>
                     </div>
                     <div>
-                        <img src={Waste1} />
+                        <img alt="alt" src={Waste1} />
                         <div className="carousel-button">Request a Pickup</div>
                     </div>
                     <div>
-                        <img src={Waste2} />
+                        <img alt="alt" src={Waste2} />
                         <div className="carousel-button">Request a Pickup</div>
                     </div>
                 </Slider>

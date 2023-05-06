@@ -10,10 +10,10 @@ const Footer =()=>{
             <div className="column">
               <h3>Links</h3>
               <ul>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Request Pickup</a></li>
-                <li><a href="#">Management</a></li>
-                <li><a href="#">Start Service</a></li>
+                <li>About</li>
+                <li>Request Pickup</li>
+                <li>Management</li>
+                <li>Start Service</li>
               </ul>
             </div>
             <div className="column">
